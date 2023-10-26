@@ -31,7 +31,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['port-0-zigoohang-jvpb2alnluv6jg.sel5.cloudtype.app', 'https://zigoohang.shop/']
+ALLOWED_HOSTS = ['port-0-zigoohang-jvpb2alnluv6jg.sel5.cloudtype.app', 'zigoohang.shop']
 
 
 # Application definition
